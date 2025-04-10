@@ -15,6 +15,6 @@ I am stumbling my way across the tech industry working mostly on Backend and say
 
 - **Rust** 🦀 because type safety and existential dread are best friends
 - **C/C++** 🏫 Those make your game engine tutorials and posts got to me
-- **Creating terminal applications that will face ✨ **rm -rf** ✨ before getting a repo
+- Creating terminal applications that will face ✨ **rm -rf** ✨ before getting a repo
 
  
