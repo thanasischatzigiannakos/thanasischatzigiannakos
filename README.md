@@ -1,16 +1,20 @@
-## Hi there 👋
+# Backend Engineer | Cloud Explorer (😶‍🌫️) 
 
-<!--
-**thanasischatzigiannakos/thanasischatzigiannakos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there, I am Athanasios, 
 
-Here are some ideas to get you started:
+I am stumbling my way across the tech industry working mostly on Backend and saying the word microservices more than I should.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Things I (should) know
+
+- **Java (Spring Boot)** - 🫘 ☕
+- **Python** 🐍 Automating my hopes and dreams
+- **GCP** ☁️ 
+- **Docker**
+
+## Things I torture myself with on the side
+
+- **Rust** 🦀 because type safety and existential dread are best friends
+- **C/C++** 🏫 Those make your game engine tutorials and posts got to me
+- **Creating terminal applications that will face ✨ **rm -rf** ✨ before getting a repo
+
+ 
