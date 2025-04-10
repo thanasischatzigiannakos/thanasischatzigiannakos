@@ -18,3 +18,4 @@ I am stumbling my way across the tech industry working mostly on Backend and say
 - Creating terminal applications that will face ✨ **rm -rf** ✨ before getting a repo
 
  
+![I got this far without saying](https://github.com/thanasischatzigiannakos/thanasischatzigiannakos/blob/main/btw-i-use-arch-arch-linux-open-source-full-color.jpg)
