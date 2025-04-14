@@ -13,8 +13,8 @@ I am stumbling my way across the tech industry working mostly on Backend and say
 
 ## Things I torture myself with on the side
 
-- **Rust** 🦀 because type safety and existential dread are best friends
-- **C/C++** 🏫 Those make your game engine tutorials and posts got to me
+- **Rust** 🦀
+- **C/C++** 
 - Creating terminal applications that will face ✨ **rm -rf** ✨ before getting a repo
 
  
