@@ -7,7 +7,7 @@ I am stumbling my way across the tech industry working mostly on Backend and say
 ## Things I (should) know
 
 - **Java (Spring Boot)** - ☕
-- **Python** 🐍 Automating my hopes and dreams
+- **Python** 🐍
 - **GCP** ☁️ 
 - **Docker**
 
